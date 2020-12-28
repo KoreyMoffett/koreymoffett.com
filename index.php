@@ -112,7 +112,7 @@
     <section class="section">
         <div class="container">
             <hr>
-            <a href="/blog/home.html">
+            <a href="/blog/blog.php">
                 <h1 class="title">Blog</h1>
             </a><br>
             <div class="notification">
