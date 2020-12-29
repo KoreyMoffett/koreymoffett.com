@@ -40,6 +40,23 @@
                 </span>
                 </nav>
             </div>
+
+
+    <!-- About section -->
+
+    <section class="section">
+        <div class="container">
+            <hr>
+            <h1 class="title">About</h1><br>
+            <div class="notification">
+                <h1 class="subtitle">My name is Korey, I enjoy coding and tinkering with technology.<br><br>
+                    <h1 class="subtitle">If you would like to contact me <a href="mailto: korey.moffett87@gmail.com">Email</a> and <a href="https://twitter.com/korey_moffett">Twitter</a> the the best methods to do so.</h1>
+                </h1>
+            </div>
+        </div>
+    </section>
+
+
             <!-- Projects section -->
     </section>
     <section class="section">
@@ -91,22 +108,6 @@
         </div>
     </section>
 
-
-
-
-    <!-- About section -->
-
-    <section class="section">
-        <div class="container">
-            <hr>
-            <h1 class="title">About</h1><br>
-            <div class="notification">
-                <h1 class="subtitle">My name is Korey, I enjoy coding and learning new technologies.<br><br>
-                    <h1 class="subtitle">If you would like to contact me <a href="mailto: korey.moffett87@gmail.com">Email</a> and <a href="https://twitter.com/korey_moffett">Twitter</a> the the best methods to do so.</h1>
-                </h1>
-            </div>
-        </div>
-    </section>
 
     <!-- Blog -->
     <section class="section">
