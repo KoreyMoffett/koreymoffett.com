@@ -27,6 +27,16 @@
                 <a class="has-text-white" href="https://github.com/KoreyMoffett" target="_Blank">
                     <i class="fab fa-github fa-2x"></i>
                 </a>
+
+
+                </span>
+                    <span class="icon is-large">
+                <a class="has-text-link" href="https://fosstodon.org/@koreymoffett" target="_Blank">
+                    <i class="fab fa-mastodon fa-2x"></i>
+                </a>
+                </span>
+
+
                 </span>
                     <span class="icon is-large">
                 <a class="has-text-danger" href="mailto: korey.moffett87@gmail.com" target="_Blank">
@@ -40,7 +50,7 @@
                 </span>
                 </nav>
             </div>
-            </section>
+        </section>
 
     <!-- Blog -->
  <section class="section">
