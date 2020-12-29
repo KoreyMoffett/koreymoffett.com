@@ -139,6 +139,9 @@
                 <a href="/blog/ill-never-buy-mac.html">
                     <h1 class="subtitle">I'll never buy a Mac - 12/26/20</h1>
                 </a>
+                <a href="/blog/foss.html">
+                    <h1 class="subtitle">Why use FOSS? - 12/29/20</h1>
+                <a>
             </div>
         </div>
     </section>
