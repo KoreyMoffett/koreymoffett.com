@@ -40,13 +40,13 @@
                 </span>
                 </nav>
             </div>
+        </section>
 
 
     <!-- About section -->
 
     <section class="section">
         <div class="container">
-            <hr>
             <h1 class="title">About</h1><br>
             <div class="notification">
                 <h1 class="subtitle">My name is Korey, I enjoy coding and tinkering with technology.<br><br>
@@ -61,6 +61,7 @@
     </section>
     <section class="section">
         <div class="container">
+            <hr>
             <h1 class="title">Projects</h1>
             <h1 class="subtitle">This section will updated as I make more projects</h1>
             <div class="notification">
