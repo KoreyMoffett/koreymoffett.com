@@ -31,7 +31,7 @@
 
                 </span>
                     <span class="icon is-large">
-                <a class="has-text-link" href="https://fosstodon.org/web/accounts/290745" target="_Blank">
+                <a class="has-text-link" href="https://fosstodon.org/@koreymoffett" target="_Blank">
                     <i class="fab fa-mastodon fa-2x"></i>
                 </a>
                 </span>
