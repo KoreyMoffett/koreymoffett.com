@@ -69,24 +69,8 @@
     </section>
 
 
-
-
-    <!-- Support section -->
-
-    <section class="section">
-        <div class="container">
-            <hr>
-            <h1 class="title">Support</h1><br>
-            <div class="notification mb-6">
-                <h1 class="subtitle">Any and all support is greatly appreciated. <br><br></h1>
-                <a href="https://www.buymeacoffee.com/korey"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=korey&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
-
-
-
-            </div>
-        </div>
-    </section>
-
-
+    <?php
+    include '../componets/support.php';
+   ?>
 
 </body>

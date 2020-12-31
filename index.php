@@ -120,50 +120,10 @@
     </section>
 
 
-    <!-- Blog -->
-    <section class="section">
-        <div class="container">
-            <hr>
-            <a href="/blog/blog.php">
-                <h1 class="title">Blog</h1>
-            </a><br>
-            <div class="notification">
-                <a href="/blog/switching-to-emacs.html">
-                    <h1 class="subtitle">Switching to Doom-Emacs - 12/24/20</h1>
-                </a>
-                <br>
-                <a href="/blog/happy-holidays.html">
-                    <h1 class="subtitle">Happy Holidays - 12/25/20</h1>
-                </a>
-                <br>
-                <a href="/blog/ill-never-buy-mac.html">
-                    <h1 class="subtitle">I'll never buy a Mac - 12/26/20</h1>
-                </a><br>
-                <a href="/blog/foss.html">
-                    <h1 class="subtitle">Why use FOSS? - 12/29/20</h1>
-                <a>
-            </div>
-        </div>
-    </section>
-
-
-
-
-    <!-- Support section -->
-
-    <section class="section">
-        <div class="container">
-            <hr>
-            <h1 class="title">Support</h1><br>
-            <div class="notification mb-6">
-                <h1 class="subtitle">Any and all support is greatly appreciated. <br><br></h1>
-                <a href="https://www.buymeacoffee.com/korey"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=korey&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
-
-
-
-            </div>
-        </div>
-    </section>
+    <?php
+    include './componets/comp_blog.php';
+    include './componets/support.php';
+    ?>
 
 
 
