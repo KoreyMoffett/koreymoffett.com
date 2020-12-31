@@ -59,13 +59,13 @@
         <div class="container">
             <h1 class="title">Blog Listing</h1><br>
             <div class="notification">
-                <a href="/blog/switching-to-emacs.html"><h1 class="subtitle">Switching to Doom-Emacs - 12/24/20</h1></a>
+                <a href="/blog/switching-to-emacs"><h1 class="subtitle">Switching to Doom-Emacs - 12/24/20</h1></a>
                 <br>
-                <a href="/blog/happy-holidays.html"><h1 class="subtitle">Happy Holidays - 12/25/20</h1></a>
+                <a href="/blog/happy-holidays"><h1 class="subtitle">Happy Holidays - 12/25/20</h1></a>
                  <br>
-                 <a href="/blog/ill-never-buy-mac.html"><h1 class="subtitle">I'll never buy a Mac - 12/26/20</h1></a>
+                 <a href="/blog/ill-never-buy-mac"><h1 class="subtitle">I'll never buy a Mac - 12/26/20</h1></a>
                  <br>
-                 <a href="/blog/foss.html"><h1 class="subtitle">Why use FOSS? - 12/29/20</h1></a>
+                 <a href="/blog/foss"><h1 class="subtitle">Why use FOSS? - 12/29/20</h1></a>
             </div>
         </div>
     </section>
