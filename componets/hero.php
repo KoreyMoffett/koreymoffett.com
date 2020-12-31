@@ -42,6 +42,6 @@ echo '
             </div>
         </section>
 
-'
+';
 
 ?>

@@ -25,5 +25,5 @@ echo '
             </div>
         </div>
     </section>
-'
+ ';
     ?>
