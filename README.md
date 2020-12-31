@@ -10,3 +10,4 @@ Technologies used:
 This is my personal website:
 - Resume
 - Blog
+- and anything else I feel should be there
