@@ -4,7 +4,7 @@ echo '
     <section class="hero is-black">
         <div class="hero-body">
             <div class="container">
-                <a href="index.php">
+                <a href="/">
                 <h1 class="title is-2">
                     Korey Moffett
                 </h1>
