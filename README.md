@@ -11,3 +11,7 @@ This is my personal website:
 - Resume
 - Blog
 - and anything else I feel should be there
+
+
+There are some unused files, none of the .php files are being used as github pages only supports static web pages.
+Please disregard those files :)
