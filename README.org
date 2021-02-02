@@ -1,13 +1,13 @@
 #+TITLE: README
 
-* This website is all of the following.
-** Resume
-** Blog
-** and anything else I feel belongs hereford
+* This website is all of the following
++ Resume
++ Blog
++ and anything else I feel belongs hereford
 
 * Technologies used to make this site
-** HTML
-** CSS & Framework: Bulma
++ HTML
++ CSS & Framework: Bulma
 
 * There are some unused files in this repo (all of the .php files)
 I'm using github pages to host my site.
