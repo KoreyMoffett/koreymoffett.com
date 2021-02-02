@@ -5,11 +5,11 @@
 + Blog
 + and anything else I feel belongs hereford
 
-* Technologies used to make this site
+** Technologies used to make this site
 + HTML
 + CSS & Framework: Bulma
 
-* There are some unused files in this repo (all of the .php files)
+** There are some unused files in this repo (all of the .php files)
 I'm using github pages to host my site.
 
 *** Thank you for reading :)
