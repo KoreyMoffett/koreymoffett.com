@@ -115,5 +115,109 @@
 ]]>
 </description>
 </item>
+
+<item>
+<title>Distro hopping is pointless</title>
+<guid>https://koreymoffett.com/blog/distro-hopping</guid>
+<link>https://koreymoffett.com/blog/distro-hopping</link>
+<pubDate>Thu, 07 Jan 2021</pubDate>
+<description>
+<![CDATA[
+<h1 class="title">Distro Hopping</h1>
+            <h1 class="subtitle">We all do it but it's dumb</h1>
+            <br>
+            <p class="has-text-black">
+                In the Linux world there is a term you will hear thrown around a lot and that "Distro hop" or "Distro hopping", as the name suggests this is when someone installs distribution after distibution expecting to find that perfect one.
+                <br>
+                Distro hopping just out of curiosity isn't bad in my personaly opinion, but I think constantly wiping your hard drive(ssd in most cases these days) is pointless.
+                <br>
+                Finding that magic linux distro isn't going to happen, none of them are perfect and anything you don't like about the distro you are currently running(or thinking about running) is easily changable.
+                The only real reason I can see for distro hopping is say for example you are running ubuntu and you want something more minimal you could install something like Debian or Arch other than that there isn't much purpose in it.
+                <br>
+                <br>
+                I myself have been that new to linux user who want to try the newest shiny thing he sees but it really is a massive waste of time, energy and can be damaging to your workflow as well.
+                <br>
+                <br>
+                I recently made the switch to base debian as I wanted a more minimal system and so far I have had zero issues. Debian is rock solid and thats why I love it.
+                Sure it may not have the lastest packages, but you when you install a package you can know for a fact it will work, unlike with arch.
+            </p>
+]]>
+</description>
+</item>
+
+<item>
+<title>Stop Using Twitter!</title>
+<guid>https://koreymoffett.com/blog/stop-using-twitter</guid>
+<link>https://koreymoffett.com/blog/stop-using-twitter</link>
+<pubDate>Sat, 10 Jan 2021</pubDate>
+<description>
+<![CDATA[
+<h1 class="title">Stop Using Twitter!</h1>
+            <h1 class="subtitle">and other freedom hating platforms.</h1>
+            <br>
+            <p class="has-text-black">
+                As you my know recently platforms like Twitter, Facebook, Snapchat and many others have been recently banning and removing anyone they disagree with rather it's a political belief or
+                your favorite breakfast cereal Big Tech has shown that it can defy the laws and do what it wants.
+                <br>
+                <br>
+                If you are looking for some alternatives to those freedom hating platforms here are a few.
+                <br>
+                <br>
+                <ul>
+                    <li><a href="joinmastodon.org">Mastodon</a></li> - Twitter like but completly federated. I personaly am on the fosstodon instance.
+                    <li><a href="lbry.tv">LBRY</a>/<a href="odysee.com">Odysee</a></li> - This can replace Youtube and even has a neat crypto system to tip the creators, both of these are the same things they just have diffrent UI
+                    <li><a href="signal.org">Signal</a></li> - This isn't a free and open source application but if you are still using whatsapp or any other facebook trash this is a good replacemant and lets you encrypt your messages.
+                </ul>
+            </p>
+]]>
+</description>
+</item>
+
+<item>
+<title>What is Mastodon</title>
+<guid>https://koreymoffett.com/blog/mastodon</guid>
+<link>https://koreymoffett.com/blog/mastodon</link>
+<pubDate>Tue, 02 Feb 2021</pubDate>
+<description>
+<![CDATA[
+ <h1 class="title">What is Mastodon</h1>
+            <h1 class="subtitle">the elephant is better than the bird.</h1>
+            <br>
+            <p class="has-text-black">
+                If you read <a href="stop-using-twitter">Stop Using Twitter!</a> you my recall that I mentioned something called Mastodon
+                Mastodon is a social site that allows users to set up instances and microblog comparable to Twitter.
+                However the benifits to Mastodon far outweigh anything twitter has to offer.
+                <br>
+                Mastodon is a federated social site meaning there is no central rule book or agenda being followed.
+                <br>
+                The users will join an instance that best suits there intrests or there intrest leading to communities being built around a common intrest.
+                You may think it's a bad thing that there are no central rules to the site but let me explain, each instance has it's own rules.
+                <br>
+                For example some instances may not allow users to use foul language and some may fully allow it.
+                <br>
+                <br>
+                The beauty of a site like Mastodon is that even if your instance kicks you, you can still go join another instance with the same account.
+                <br>
+                If you were on mstdon.social and they decided they don't like what you are posting or maybe you broke the rules and kick you, you could go join fosstodon.org (which is the instance im in).
+                As you can see just from the very few point I actully talked about mastodon does still have a way of regulating itself and dealing with the trolls.
+                <br>
+                <br>
+                <hr>
+                If you are intrested in joining up on mastodon and have a love for FOSS(Free and Open Source Software)
+                I would highly recommend joining <a href="https://fosstodon.org">Fosstodon</a> I have been here for a few months now and I have had a very good time.
+                <br>
+                It's actually like a little community of some pretty cool people.
+                <br>
+                <br>
+                If you aren't into FOSS but still want to join mastodon i recommend going to <a href="https://instances.social">Matodon Instances</a> here you will find tons of other instances that may suit you better.
+                    <br>
+                    I hope to see many new toots on mastodon :)  (post on mastodon are called toots i'm not weird or something lol)
+
+            </p>
+]]>
+</description>
+</item>
+
+
 </channel>
 </rss>
