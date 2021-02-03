@@ -1,4 +1,5 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<a rel="me" href="https://fosstodon.org/@koreymoffett"></a>
 <channel>
 <title>Korey's Blog</title>
 <description>Updates from Korey.</description>
