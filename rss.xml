@@ -6,7 +6,7 @@
 <link>https://koreymoffett.com/rss.xml</link>
 <atom:link href="https://koreymoffett.com/rss.xml" rel="self" type="application/rss+xml"/>
 <image>
-<title>Luke Smith</title>
+<title>Korey's Blog</title>
 <link>https://koreymoffett.com/rss.xml</link>
 </image>
 
@@ -14,7 +14,7 @@
 <title>Switching to Emacs</title>
 <guid>https://koreymoffett.com/blog/switching-to-emacs</guid>
 <link>https://koreymoffett.com/blog/switching-to-emacs</link>
-<pubDate>Dec, 24th 2020</pubDate>
+<pubDate>Thu, 24 Dec 2020</pubDate>
 <description>
 <![CDATA[
 <h1 class="title">Switching to Emacs</h1>
@@ -30,6 +30,87 @@
                 it's Vim, VSCode and Emacs all smashed into one package.
                 <br> If you have been looking for a terminal based or GUI text editor that's pretty lightweight but still has all the features you will ever need, I highly recommend Doom-Emacs.
 
+            </p>
+]]>
+</description>
+</item>
+
+<item>
+<title>Happy Holidays</title>
+<guid>https://koreymoffett.com/blog/happy-holidays</guid>
+<link>https://koreymoffett.com/blog/happy-holidays</link>
+<pubDate>Fri, 25 Dec 2020</pubDate>
+<description>
+<![CDATA[
+ <h1 class="title">Merry Christmas Everyone</h1>
+            <h1 class="subtitle">Happy Holidays</h1>
+            <br>
+            <p class="has-text-black">It's Christmas today! Merry Christmas and Happy Holidays to everyone.
+            </p>
+]]>
+</description>
+</item>
+
+<item>
+<title>I'll never buy a Mac</title>
+<guid>https://koreymoffett.com/blog/ill-never-buy-mac</guid>
+<link>https://koreymoffett.com/blog/ill-never-buy-mac</link>
+<pubDate>Sat, 26 Dec 2020</pubDate>
+<description>
+<![CDATA[
+  <h1 class="title">Why I'll never buy a Mac</h1>
+            <h1 class="subtitle">Never again</h1>
+            <br>
+            <p class="has-text-black">I don't have some horror story of my keyboard breaking or my screen just dying on me, in fact my macbook has held up pretty good. But I have since learned about Linux and after installing Linux on my desktop I see absolutly no reason for Apple
+                to even make computers at all to be honestly(Other than to make money but that's obvious.).
+                <br> Macs try to fill this really weird area of computing that I just don't see a purpose for. For anything you need to do you can use Linux or Windows and they will do the job better in many cases (other than make apps for iphone and
+                mac)
+                <br>
+                <br> Macs are just super expensive computers with lowend specs, and about 80% of the price you paid for that mac is so you can have that Apple logo on the back.
+                <br> I'm not someone who buys a new laptop every year in fact I wait until the laptop has more than one issue to buy a new one in most cases, but I can say with 100% certainty that I will never buy another apple computer rather it be a
+                laptop or a desktop mac ever again.
+                <br>
+                <br> Linux is my prefered OS to compute on.
+            </p>
+]]>
+</description>
+</item>
+
+<item>
+<title>Why use FOSS?</title>
+<guid>https://koreymoffett.com/blog/foss</guid>
+<link>https://koreymoffett.com/blog/foss</link>
+<pubDate>Tue, 29 Dec 2020</pubDate>
+<description>
+<![CDATA[
+<h1 class="title">Why use FOSS?</h1>
+            <h1 class="subtitle">Why should you care?</h1>
+            <br>
+            <p class="has-text-black">I guess first I should start of by explaining what FOSS is, FOSS is Free and Open Source Software.
+                <br> For a program or software to be consitered free(as in freedom, has nothing to do with price.) it first has to meet the four essential freedoms.
+                <br>
+                <br>
+                <ul>
+                    <li>Freedom 0: The freedom to run the program as you wish, for any purpose.<li>
+                        <li>Freedom 1: The freedom to study how the program works, and change it so it does your computing as you wish.</li>
+                        <li>Freedom 2: The freedom to redistribute copies so you can help others.</li>
+                        <li>Freedoom 3: The freedom to distribute copies of your modified verison to others. By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a necessity.</li>
+                </ul>
+                <br>
+                <br>
+                Now, to answer the question, "Why should you care about FOSS?"<br>
+                You should truly care about FOSS because unlike most software/programs, FOSS won't collect data about you to sell to the highest bidder, but it also gives you the freedom to change the things you don't like about the program or to change the things you need to change to be able to use the program. For example lets say there is a program that someone needs to use but they can't read the font size due to a vision impairment, Well with FOSS they could easily change the font size because they have access to the source code. Not only that but you can also have the peace of mind that the program isn't sending your information to people or companies who have no real reason to see your information.
+                <br>
+                <br>
+                Supporting FOSS is supporting Freedom!
+                <br>
+                <hr>
+                Please consider donating your time or donating financially to these organizations to help push FOSS forward:
+                <br>
+                <br>
+                <a href="https://www.fsf.org/">Free Software Foundation<a>
+                    <br>
+                    <a href="https://www.eff.org/">Electronic Frontier Foundation<a>
             </p>
 ]]>
 </description>
