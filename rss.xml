@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Korey's Blog</title>
+    <description>Free and Open Source advocate who likes to talk about stuff I find interesting.</description>
+    <link>www.koreymoffett.com/blog</link>
+    <item>
+      <title>Switching to Doom-Emacs - 12/24/20
+      <description>About how and why I switched to emacs</description>
+      <link>https://koreymoffett.com/blog/switching-to-emacs</link>
+    </item>
