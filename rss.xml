@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8">
+<?xml version="1.0" encoding="utf-8"?>
   <rss version="2.0">
     <channel>
       <title>Latest from Korey</title>
@@ -7,4 +7,5 @@
       <item>
         <title>Switching to Emacs</title>
         <description></description>
-        </item>
+      </item>
+    </rss>
