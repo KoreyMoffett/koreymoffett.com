@@ -1,13 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss xmlns:atom="https://www.w3.org/2005/Atom" version="2.0>
   <channel>
-    <title>Korey's Blog</title>
-    <description>Free and Open Source advocate who likes to talk about stuff I find interesting.</description>
-    <link>www.koreymoffett.com/rss.xml</link>
-    <item>
-      <title>Switching to Doom-Emacs - 12/24/20
-      <description>About how and why I switched to emacs</description>
-      <link>https://koreymoffett.com/blog/switching-to-emacs</link>
-    </item>
-  </channel>
- </rss>
+    <title>The Latest from Korey</title>
+    <description>Updates from Korey. Put this in your RSS feed for updates!</description>
+    <link>https://koreymoffett.com/rss.xml</link>
+    <atom:link href="https://koreymoffett.com/rss.xml" rel="self" type="applications/rss+xml"/>
+    <title>The Lastest from Korey</title>
+    <link>https://koreymoffett.com/rss.xml</link>
+      <item>
+        <title>Switching to Doom Emacs</title>
+        <guid>https://koreymoffett.com/blog/switching-to-emacs</guid>
+        <pubDate>Dec 24 2020</pubDate>
+        <description>
+          <![CDATA[  <h1 class="title">Switching to Emacs</h1>
+            <h1 class="subtitle">Doom-Emacs</h1>
+            <br>
+            <p class="has-text-black">I first started coding about 2 years ago off and on as nothing serious, just as a way to tinker about with my computer when I was at home, but as I started to get deeper and deeper into the rabbit hole that is coding I started to look for
+                a serious text editor. When I first started I was using a program called Atom to edit my code(you may have heard of it, the text editor made by github).
+                <br> I looked online and saw many people used Atom and that Github was the creater of it so it seemed like a no-brainer. Since then however I have tried nearly every editor under the sun, I tried Atom, Sublime Text, VSCode(Still use some),
+                and Vim and I must say most of them were a complete let down.
+                <br> For example, When I used Sublime i was always so annoyed by it's keybinding and it's just rather dull design. With Atom, it was great for awhile until it started really slowing down do to the number of add-ons I had and needed for
+                the projects I was working on. For Vim and VSCode, These two actually haven't let me down they have been amazing since the day I started using them, but I think it's time to give Emacs a fair chance.
+                <br> I always hated on Emacs, saying 'This program has the most idiotic key binds/key-chords', then i found Doom-Emacs(Thanks DistroTube). I have only been using Doom-Emacs for about two hours and I can whole heartly say I love it. Because
+                it's Vim, VSCode and Emacs all smashed into one package.
+                <br> If you have been looking for a terminal based or GUI text editor that's pretty lightweight but still has all the features you will ever need, I highly recommend Doom-Emacs.
+            </p> ]]
+        </description>
+      </item>
+</rss>
