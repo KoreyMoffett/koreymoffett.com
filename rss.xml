@@ -256,6 +256,52 @@
 </description>
 </item>
 
+<item>
+<title>Software I Use</title>
+<guid>https://koreymoffett.com/blog/software-used</guid>
+<link>https://koreymoffett.com/blog/software-used</link>
+<pubDate>Sun, 07 Feb 2021 17:45:00 UTC</pubDate>
+<description>
+<![CDATA[
+            <h1 class="subtitle">My favorites so far</h1>
+            <br>
+            <p class="has-text-black">
+                As you can tell my the title of this post I wanted to make a quick little post sharing the software/programs
+                I use on a daily basis.
+                <br>
+                <br>
+                My distro of choice is GNU/Linux Debian (Buster).
+                <br>
+                I really like debian for many reasons but the main reason is its stability, you don't have to worry about updating and your system braking as debian has many layers of production to ensure that won't happen.
+                <br>
+                Also I really like the logo lol(not a main reason but thought I would throw that in).
+                <br>
+                <br>
+                The window manager I've been using for some time now is Spectrwm, I really like the simplicity.
+                <br>
+                It's config file is beyond easy to customize and the baked in statusbar is more than enough for my needs.
+                <br>
+                <br>
+                Now on to text editors... here is where everyone pulls out their swords and prepares to battle.
+                <br>
+                My text editor of choice is both Vim and Emacs, let me explain lol. For bigger projects such as this website or any other projects I will be spending time input
+                I use Emacs but not base emacs I actually use a distro of Emacs called Doom-Emacs. And as far as Vim I mostly use it for those quick edits to a file say maybe my .zshrc.
+                <br>
+                <br>
+                My terminal as of now is Kitty but honestly I like Alacritty just as much, I can pretty much any terminal emulator.
+                <br>
+                <br>
+                My web browser of choice is Brave at the moment but I'm not quite sure if i'll be sticking with it yet.
+                <br>
+                <br>
+                And this one I just kinda threw into the list last minute but for a graphical file manager i use pcmanfm, because it is dead simple.
+
+
+            </p>
+]]>
+</description>
+</item>
+
 
 </channel>
 </rss>
