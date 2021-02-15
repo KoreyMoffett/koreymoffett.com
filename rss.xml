@@ -302,6 +302,40 @@
 </description>
 </item>
 
+<item>
+<title>Tusky is an amazing mobile app</title>
+<guid>https://koreymoffett.com/blog/tusky</guid>
+<link>https://koreymoffett.com/blog/tusky</link>
+<pubDate>Sun, 14 Feb 2021 22:10:00 UTC</pubDate>
+<description>
+<![CDATA[
+
+<h1 class="subtitle">Mastodon Client</h1>
+            <br>
+            <p class="has-text-black">
+                I have been using <a href="https://tusky.app/">Tusky</a> now for around 3 months and I have nothing but the best to say about it.
+                <br>
+                <br>
+                I have tried other mastodon clients before and all of them work yes, but none of them have the same level of polish as Tusky.
+                <br>
+                I started using Tusky right after I completly got rid of my Twitter account and even the twitter app doesn't come close to the the same clean and polished design of Tusky.
+                <br>
+                The best part about Tusky is that it is completly free and open source software. I think it's only avaliable on Android devices through.
+                <br>
+                <br>
+                If you are intrested in giving it a try I recommend downloading with F-droid instead of Google Play.(Google is the devil Fdroid is the bringer of all things good...oh and it's FOSS so its a no brainer for me).
+                <br>
+                <br>
+                <h1 class="subtitle">Life update</h1>
+                <br>
+                I will be moving pretty soon and i'm not sure about the internet situation at the new place, so that being said im not sure when my next blog post will be. (I will be back ASAP).
+                <br>
+                Take care everyone. :)
+            </p>
+
+]]>
+</description>
+</item>
 
 </channel>
 </rss>
