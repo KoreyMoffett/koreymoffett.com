@@ -3,7 +3,7 @@
 * This website is all of the following
 + Resume
 + Blog
-+ and anything else I feel belongs hereford
++ and anything else I feel belongs on this site
 
 ** Technologies used to make this site
 + HTML
