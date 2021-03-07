@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: koreymoffett.com
+Token: 7ef22b44cd3a2aa3272e180fb6f2c66f508810501196deb7af3e8987ed7e3060
