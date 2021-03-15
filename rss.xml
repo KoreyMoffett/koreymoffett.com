@@ -364,6 +364,33 @@
 </description>
 </item>
 
+<item>
+<title>One week on Solus</title>
+<guid>https://koreymoffett.com/blog/solus</guid>
+<link>https://koreymoffett.com/blog/solus</link>
+<pubDate>Mon, 15 Mar 2021 20:54:00 UTC</pubDate>
+<description>
+<![CDATA[
+
+<h1 class="subtitle">The return of Me Myself and I</h1>
+            <br>
+            <p class="has-text-black">
+                Hello everyone, if you read my last blog post I said that I would be moving and I wasn't sure about the internet situation at the new house, well it turns out that
+                we actually can't get an actual ISP so we have to use mobile hotspots for all things internet.
+                <br>
+                As bad as that might sound it's actually been pretty simple and the connection has been pretty stable.
+                <br>
+                <br>
+                Also, I started learning C++, I was learning C but from what I can see C++ is just C with more features and by learning C++ i'm pretty much learning C.
+                <br>
+                <br>
+                That's it.. thats my little update
+            </p>
+
+]]>
+</description>
+</item>
+
 
 </channel>
 </rss>
