@@ -1,8 +1,8 @@
 #+TITLE: README
 
 * This website is all of the following
-+ Resume
-+ Blog
++ Place to post Projects
++ My Blog
 + and anything else I feel belongs on this site
 
 ** Technologies used to make this site
