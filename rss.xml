@@ -566,5 +566,38 @@
 </description>
 </item>
 
+<item>
+<title>Favorite Mobile Apps</title>
+<guid>https://koreymoffett.com/blog/thouhgts-on-js</guid>
+<link>https://koreymoffett.com/blog/thouhgts-on-js</link>
+<pubDate>Mon, 22 Mar 2021 08:18:00 UTC</pubDate>
+<description>
+    <![CDATA[
+<h1 class="subtitle">The Good the Bad and the Slow</h1>
+            <br>
+            <p class="has-text-black">
+              JavaScript, You either love it or you hate it... well actually that's not true. See I don't believe JavaScript is inherently bad, in fact if used correctly I't allows for some very useful and even just plain cool things to be anchived from the web browser.
+              <br>
+              Don't get me wrong I still thing JavaScript shouldn't be used nearly as much as it is. For example, If you are just trying to have a sentence display on your website their is absolutly no reason to do that with JavaScript. HTML and CSS should still be the core of all websites, JavaScript is a little spice you throw in to give a little pizzaz or for a cool animation here and there.
+              <br>
+              When JavaScript is used to the point that the entire site is just a giant script or a million little scripts is where I see a huge issue with it, It's just slow and pointless at that point really.
+              <br>
+              <br>
+              This is a super short blog but I just really wanted to get my thoughts out on it and also announce that I'm going to be learning JavaScript(I know sue me right lol) as I would like to get more into web development.
+              <br>
+              <br>
+              I'm actually pretty curious of what you guys think.
+              <br>
+              Is JavaScript the Devil or not so bad?
+              <br>
+              Let me know in the comments :)
+
+            </p>
+
+
+]]>
+</description>
+</item>
+
 </channel>
 </rss>
