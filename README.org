@@ -8,6 +8,7 @@
 ** Technologies used to make this site
 + HTML
 + CSS & Framework: Bulma
++ JavaScript for comments
 
 I'm using github pages to host my site.
 
