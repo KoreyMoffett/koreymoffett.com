@@ -683,5 +683,46 @@
 ]]>
 </description>
 </item>
+
+
+<item>
+<title>My Love for Emacs</title>
+<guid>https://koreymoffett.com/blog/my-love-for-emacs</guid>
+<link>https://koreymoffett.com/blog/my-love-for-emacs</link>
+<pubDate>Wed, 07 Apr 2021 10:33:00 UTC</pubDate>
+<description>
+    <![CDATA[
+<h1 class="subtitle">How Emacs conquered my computer</h1>
+            <br>
+            <p class="has-text-black">
+                My first blog post I ever made was about Doom Emacs and here we are again at last.
+                <br>
+                I would like to start of by saying I never stopped using Doom Emacs since the first post I've just actually started looking further into Emacs and playing around with stuff more.
+                If you are wondering why I use Doom Emacs and not just vanilla Emacs it's because I NEED the Vim bindings or as Emacs folk call it Evil Mode.
+                <br>
+                At first Doom Emacs was a text editor for me and that was all, never messed with Org Mode or Magit or anything. Coming from Vim thats all I had ever known and I always heard that Emacs was a text editor, which isn't completely wrong but is an understatement for sure.
+                <br>
+                <br>
+                If you are following me on Mastodon (and if you aren't and you are view from my website click the blue icon at the top and fix that lol) you would have noticed that I've been posting about Emacs quite a lot in the past two days or so and that's because I have really grasped the power of Org Mode.
+                <br>
+                <br>
+                Org Mode is sooooooo much more than just a markdown language, In Org Mode you can even code, yes you can code in Org, the org-bable-tangle package allows you to write config files or even straight up program in a .org file and have it's code blocks sent to the original config file.
+                For anyone who hasn't used Org Mode it's really hard to actually understand why people would love it so much, I even thought Org Mode was just some markdown language that people were pushing to get more people using Emacs but after using it you will fully understand.
+                <br>
+                <br>
+                Magit is the other feature in Emacs that I absolutely love, I can stage my files before I commit or push them, the commit option allows you to make all files have the same commit message(which I like) and it's simply a M-x magit-push away from being pushed to your git repo.
+                <br>
+                I absolutely love Magit and Org Mode and I don't see myself ever leaving Emacs because those two features are just killer when it comes to productivity.
+                <br>
+                <br>
+                I don't promise Emacs will be perfect for you, in fact if you are a vim user because you like the UNIX philosophy of 'Do one thing and do it well' you probably won't like Emacs as its super extensible to the point of being basically it's own operating system.
+                <br>
+                <br>
+                For me, Emacs is my editor, file manager, and so much more.
+            </p>
+
+]]>
+</description>
+</item>
 </channel>
 </rss>
