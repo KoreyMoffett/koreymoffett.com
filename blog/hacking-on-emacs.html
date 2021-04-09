@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.14.0/js/all.js"></script>
+
+    <link rel="stylesheet" href="style/style.css">
+    <title>Hacking on Emacs</title>
+
+</head>
+
+<body>
+    <section class="hero is-black">
+        <div class="hero-body">
+            <div class="container">
+                <h1 class="title is-2">
+                    Korey Moffett
+                </h1>
+                <h2 class="subtitle">
+                   Blog
+                </h2>
+
+   <nav class="navbar">
+                    <span class="icon is-large">
+                <a class="has-text-white" href="https://github.com/KoreyMoffett" target="_Blank">
+                    <i class="fab fa-github fa-2x"></i>
+                </a>
+                </span>
+
+
+
+                    <span class="icon is-large">
+                <a class="has-text-danger" href="mailto: kaosfang@tutanota.com" target="_Blank">
+                    <i class="fas fa-envelope-open-text fa-2x"></i>
+                </a>
+                    </span>
+
+                    <span class="icon is-large">
+                <a class="has-text-link" href="https://fosstodon.org/@koreymoffett" target="_Blank">
+                    <i class="fab fa-mastodon fa-2x"></i>
+                </a>
+                    </span>
+
+
+ <span class="icon is-large">
+                <a class="has-text-warning" href="https://koreymoffett.com/rss.xml" target="_Blank">
+                    <i class="fas fa-rss fa-2x"></i>
+                </a>
+                </span>
+
+                </nav>
+
+
+
+            </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <h1 class="title">Hacking on Emacs</h1>
+            <h1 class="subtitle">Elisp is weird</h1>
+            <br>
+            <p class="has-text-black">
+                My last post <a href="blog/my-love-for-emacs">My Love for Emacs</a> I talked about how I have seriously started to use Emacs and was looking more into making Emacs the tool I want it to be.
+                <br>
+                I've began doing that and I'm actually very suprised with how easy it is. From the first time I heard of Emacs about 3ish years ago or so I always thought Emacs was this sort of elite program that required serious programming skills.
+                <br>
+                <br>
+                Well, I can now say that it's not that at all. It's for anyone who enjoys hacking on something and making something theirs, keybinding, setting packages to run on default and everything else that goes into hacking on Emacs. The only thing that may trip people up is the Elisp language used to to modify or extend Emacs.
+                <br>
+                <br>
+                For example, this is a snippet of elisp code form my config.el.
+                <br>
+                <br>
+                <div class="notification">
+                    (use-package org-bullets<br>
+                    :ensure t<br>
+                    :config<br>
+                    (add-hook 'org-mode-hook (lambda  () (org-bullets-mode 1))))
+                </div>
+                <br>
+
+            <p class="has-text-black">
+                You may be wondering 'what's up with all the parentheses' and I think that's a fair observation, I belive the reason for the parentheses is because in all lisp languages everything is a list which is a very weird consept to get used to. In fact I'm not every really used to it yet to be honest. But I am learing more and more about elisp and I find it pretty intresting even though it is odd compared to something like C or Python or something.
+                <br>
+                <br>
+                You can expect more from me about the topic of Emacs as I have a feeling that I'm really just getting started with understanding it.
+                <br>
+                <br>
+                Thanks for reading :)
+            </p>
+            </p>
+
+
+
+        </div>
+
+    </section>
+
+    <hr>
+    <script src="https://utteranc.es/client.js"
+    repo="KoreyMoffett/koreymoffett.com"
+    issue-term="pathname"
+    theme="boxy-light"
+    crossorigin="anonymous"
+    async>
+</script>
+
+</body>
+
+</html>

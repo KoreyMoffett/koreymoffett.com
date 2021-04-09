@@ -724,5 +724,48 @@
 ]]>
 </description>
 </item>
+
+<item>
+<title>Hacking on Emacs</title>
+<guid>https://koreymoffett.com/blog/hacking-on-emacs</guid>
+<link>https://koreymoffett.com/blog/hacking-on-emacs</link>
+<pubDate>Fri, 09 Apr 2021 10:33:00 UTC</pubDate>
+<description>
+    <![CDATA[
+<h1 class="subtitle">Elisp is weird</h1>
+            <br>
+            <p class="has-text-black">
+                My last post <a href="blog/my-love-for-emacs">My Love for Emacs</a> I talked about how I have seriously started to use Emacs and was looking more into making Emacs the tool I want it to be.
+                <br>
+                I've began doing that and I'm actually very suprised with how easy it is. From the first time I heard of Emacs about 3ish years ago or so I always thought Emacs was this sort of elite program that required serious programming skills.
+                <br>
+                <br>
+                Well, I can now say that it's not that at all. It's for anyone who enjoys hacking on something and making something theirs, keybinding, setting packages to run on default and everything else that goes into hacking on Emacs. The only thing that may trip people up is the Elisp language used to to modify or extend Emacs.
+                <br>
+                <br>
+                For example, this is a snippet of elisp code form my config.el.
+                <br>
+                <br>
+                <div class="notification">
+                    (use-package org-bullets<br>
+                    :ensure t<br>
+                    :config<br>
+                    (add-hook 'org-mode-hook (lambda  () (org-bullets-mode 1))))
+                </div>
+                <br>
+
+            <p class="has-text-black">
+                You may be wondering 'what's up with all the parentheses' and I think that's a fair observation, I belive the reason for the parentheses is because in all lisp languages everything is a list which is a very weird consept to get used to. In fact I'm not every really used to it yet to be honest. But I am learing more and more about elisp and I find it pretty intresting even though it is odd compared to something like C or Python or something.
+                <br>
+                <br>
+                You can expect more from me about the topic of Emacs as I have a feeling that I'm really just getting started with understanding it.
+                <br>
+                <br>
+                Thanks for reading :)
+            </p>
+            </p>
+]]>
+</description>
+</item>
 </channel>
 </rss>
