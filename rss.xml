@@ -767,5 +767,66 @@
 ]]>
 </description>
 </item>
+
+<item>
+<title>Contribute to FOSS</title>
+<guid>https://koreymoffett.com/blog/contribute-to-foss</guid>
+<link>https://koreymoffett.com/blog/contribute-to-foss</link>
+<pubDate>Mon, 12 Apr 2021 12:30:00 UTC</pubDate>
+<description>
+    <![CDATA[
+<h1 class="subtitle">There are many ways</h1>
+            <br>
+            <p class="has-text-black">
+                If you have been using FOSS for any amount of time you know one of the key things many of us love about FOSS is that we are able to help in the creation or fixing of issues with the software we use. But many people have no clue how to help, I'm here to help with that.
+            </p>
+            <br>
+
+                <h1 class="title is-4">Contribute code</h1>
+                <p class="has-text-black">
+                    The most common thought for most people is you have to contribute code, this isn't true however if you have the skills to contribute code in the languages used by the program you are contributing to i'm sure the devs are more than happy to accept it assuming that you have clean and readable code.
+                </p>
+                <br>
+
+                <h1 class="title is-4">Documentation</h1>
+                <p class="has-text-black">
+                    Documentation is maybe one of the most important parts of a program that is often over looked by developers, if you aren't fluent in code that's ok because you can right documentation for the projects you support. If they project is fairly large already there is a good chance it will already have good documentation but that doesn't mean you can help in this area, if you speak more than one language you can translate the documentation from is originally written language into the language you know. For example say a project has documentation written in Russian and you know Russian as well as German, you could translate it from Russian to German. The devs will be thankful and anyone using the program who speaks German would also be very thankful to have documentation in their native language.
+                </p>
+                <br>
+
+                <h1 class="title is-4">Help the community</h1>
+                <p class="has-text-black">
+                    In the world of linux we often see people asking questions, rather it be new to linux users or experienced users everyone has to ask questions every now and again. If you have the skills and understanding of linux required to help you can answer questions of forums and other places online. It may seem like a trivial thing but it's very helpful to getting more people comfortable with their systems and in turn converting more people to more FOSS alternatives.
+                </p>
+                <br>
+
+                <h1 class="title is-4">Create content</h1>
+                <p class="has-text-black">
+                    When people hear create content you may think that means make a Odysee or YouTube channel and yes that is a very good way because you could reach people who haven't heard of FOSS and they may give it a try after seeing your videos but also you could make art for the projects of your choice, such as logos, or icons for desktop environments or window manager, or even memes, yes memes are actually surprisingly helpful as memes are essentially modern day slang, you can give them a laugh while also spreading the message of FOSS.
+                </p>
+                <br>
+
+                <h1 class="title is-4">Advocacy</h1>
+                <p class="has-text-black">
+                    Advocacy can be as simple as telling your friends and family about FOSS, you could also gather a following on social platforms and spead the message that way.
+                </p>
+                <br>
+                <br>
+
+                <h1 class="title is-4">Donation</h1>
+                <p class="has-text-black">
+                    Many free and open source projects are made and maintained in the devs free time for free, so if you have the extra cash every now and then send the devs a bit of money to show that you support and appreciate their work and commitment to the projects.
+                </p>
+                <br>
+                <br>
+                <p class="has-text-black">
+                There are many ways to contribute to the FOSS community and projects, I encourage everyone to contribute in anyway they can.
+                    <br>
+                    <br>
+                    Thank you for reading :)
+                </p> 
+]]>
+</description>
+</item>
 </channel>
 </rss>
